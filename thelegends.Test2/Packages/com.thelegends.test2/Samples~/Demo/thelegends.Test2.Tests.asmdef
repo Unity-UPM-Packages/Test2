@@ -1,0 +1,16 @@
+{
+    "name": "thelegends.Test2.Demo",
+    "rootNamespace": "thelegends.Test2.Demo",
+    "references": [
+        "thelegends.Test2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
