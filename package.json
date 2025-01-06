@@ -1,0 +1,23 @@
+{
+  "name": "com.thelegends.test2",
+  "displayName": "thelegends.Test2",
+  "description": "thelegends.Test2 description goes here.",
+  "keywords": [],
+  "version": "1.0.0-preview.1",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/Unity-UPM-Packages/com.thelegends.test2#documentation",
+  "changelogUrl": "https://github.com/Unity-UPM-Packages/com.thelegends.test2/releases",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "repository": "https://github.com/Unity-UPM-Packages/com.thelegends.test2.git"
+  },
+  "author": {
+    "name": "Unity-UPM-Packages",
+    "url": "https://github.com/Unity-UPM-Packages"
+  },
+  "dependencies": {},
+  "publishConfig": {
+    "registry": "https://package.openupm.com"
+  }
+}
