@@ -16,8 +16,19 @@
     "name": "Unity-UPM-Packages",
     "url": "https://github.com/Unity-UPM-Packages"
   },
-  "dependencies": {},
+  "dependencies": {
+    "com.thelegends.base.testupm": "1.1.13"
+  },
   "publishConfig": {
     "registry": "https://package.openupm.com"
-  }
+  },
+  "scopedRegistries": [
+    {
+      "name": "TripSoft",
+      "url": "https://verdaccio.tripdev.io/",
+      "scopes": [
+        "com.thelegends"
+      ]
+    }
+  ]
 }
