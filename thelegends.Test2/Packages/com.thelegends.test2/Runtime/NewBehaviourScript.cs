@@ -6,6 +6,6 @@ namespace thelegends.Test2
 {
     public class NewBehaviourScript : MonoBehaviour
     {
-
+        abcd
     }
 }
